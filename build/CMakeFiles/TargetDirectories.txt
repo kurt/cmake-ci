@@ -1,0 +1,4 @@
+/home/username/repos/my_first_cmake/build/CMakeFiles/edit_cache.dir
+/home/username/repos/my_first_cmake/build/CMakeFiles/HelloWorld.dir
+/home/username/repos/my_first_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/username/repos/my_first_cmake/build/CMakeFiles/HelloWorldC.dir

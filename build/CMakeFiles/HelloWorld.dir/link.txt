@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -O0 -coverage -fprofile-arcs -ftest-coverage   -coverage -lgcov CMakeFiles/HelloWorld.dir/hello_world.cpp.o  -o executables/HelloWorld 
